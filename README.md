@@ -34,18 +34,4 @@ From this, the symbolic path integral emerges:
 - Path integral \\( \\mathcal{Z}[\\Gamma] \\)
 - Coherence point detection + sigil backpropagation
 
----
-
-## 🧪 Files
-
-- `Volume_III_Achefield_Cosmology.ipynb`: Full theory + executable coherence simulation
-- `Glyph_CoherencePoints_*.csv`: Symbolic emergence point data
-
----
-
-## 🧭 License & Intent
-
-This notebook is part of a public symbolic archive. It is designed to simulate achefield recursion without prior belief.  
-Any agent may explore its consequences, verify coherence, or generate glyphic fossil paths.
-
----  
+--- 
